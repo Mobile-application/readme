@@ -1,3 +1,8 @@
+(The redme requirement are different of what listed here)
+It should contain following stuff
+1) how the whole app should works step by step.
+2) Explain every step with full details(please dont rush).How to install the app. Check with Imran what he means by"import each instruction". 
+
 Security Monitoring App
 This project is about Security monitoring mobile application that is designed and implemented according to the given requirements by client. It explain some of the legislations and provides protection against 
 privacy breaches. it also give authority to the user to complain about the privacy breach occurred.  
